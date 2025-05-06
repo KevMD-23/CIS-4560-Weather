@@ -1,3 +1,6 @@
+--Obtain Original Dataset Zip Here (https://www.kaggle.com/datasets/nachiketkamod/weather-dataset-us/data)
+
+
 --Upload and Extract Weather Dataset
 
 --Upload ZIP to HDFS
